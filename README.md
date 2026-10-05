@@ -4,6 +4,13 @@ An engineering contribution case study by Santiago Gonzalez Alvarez, based on a 
 
 This repository explains my individual work and the decisions behind it. The main application is a team project. University assessment source, client material, credentials, operational records, and teammates' implementation are not included in this public case study.
 
+## Quick review
+
+- **My role:** implementation, integration, regression testing, and reliability fixes in a team application; separate River voice prototype work.
+- **Technical focus:** Django, PostgreSQL/pgvector, HTMX, reviewed operations, retrieval evidence, and real-time voice interaction.
+- **Start here:** [contribution evidence](docs/CONTRIBUTIONS.md), then [design decisions and failure cases](docs/DESIGN.md).
+- **Public artifact:** a technical case study. Private assessment source and operational data are intentionally excluded.
+
 ## The customer problem
 
 Farm operations combine changing staff availability, equipment constraints, operational records, and documents. A useful assistant has to fit those workflows while keeping permission checks and human approval visible. A plausible answer or a polished calendar is insufficient if the underlying records are stale or a concurrent change can invalidate the action.
